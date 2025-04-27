@@ -10,11 +10,6 @@ Los módulos que imparto en el curso 2024-25 son:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seteruiz)](https://git.io/streak-stats)
 
-[![Seteruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=seteruiz)](https://github.com/anuraghazra/github-readme-stats)
-
-![Seteruiz's github stats](https://github-readme-stats.vercel.app/api?username=seteruiz&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seteruiz&layout=compact&langs_count=8"/>
-
 
 
 
