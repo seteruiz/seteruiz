@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hola 👋
+Soy Sete, profe de Informática del [IES Enrique Tierno Galván](https://github.com/tiernogalvan) de Madrid.
+
+Los módulos que imparto en el curso 2024-25 son:
+- 🌵 Acceso a Datos (`.java`)
+- 🌴 Programación de Servicios y Procesos (`.java`)
+- 🍀 Desarrollo Web en Entorno Servidor (`.php`)
+
+💬 Mis pronombres son él / elle.
+
 
 <!--
 **seteruiz/seteruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
