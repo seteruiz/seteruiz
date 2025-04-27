@@ -8,6 +8,9 @@ Los módulos que imparto en el curso 2024-25 son:
 
 💬 Mis pronombres son él / elle.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seteruiz)](https://git.io/streak-stats)
+
+
 
 <!--
 **seteruiz/seteruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
