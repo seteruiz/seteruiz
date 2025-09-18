@@ -6,4 +6,6 @@ Los módulos que imparto en el curso 2025-26 son:
 - 🍀 Desarrollo Web en Entorno Servidor (`.php`)
 - 🌵 Lenguaje de Marcas (`.html`, `.css`, `.xml`, `.xslt`, `.json`, `.md`... y más)
 
-💬 Mis pronombres son él / elle.
+Viva [Palestina libre](https://bdsmovement.net/) 🇵🇸
+
+💬 Mis pronombres son él o elle.
